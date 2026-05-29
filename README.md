@@ -58,4 +58,4 @@ are available depending on throughput or IOPS requirements.
 
 ---
 
-*Studies in progress — more services will be added over time.*
+*Studies in progress — more services, comments and material will be added over time.*

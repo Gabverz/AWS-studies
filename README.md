@@ -35,5 +35,48 @@ making it flexible enough to support different application needs.
 Amazon S3 is an object storage service designed to store and retrieve
 any amount of data from anywhere. Files are organized into buckets and
 can be accessed via API, SDK, or the AWS Console, with fine-grained
-permission control and versioning support
+permission control and versioning support.
 
+**Common use cases:**
+- Storing application data, logs, and backups
+- Hosting static websites
+- Data lakes and analytics pipelines
+
+---
+
+### 💾 Amazon EBS (Elastic Block Store)
+
+Amazon EBS provides persistent block storage volumes that can be
+attached to EC2 instances, working like virtual disks. Volumes remain
+intact even after instance stops or reboots, and different volume types
+are available depending on throughput or IOPS requirements.
+
+**Common use cases:**
+- File systems and relational databases
+- Low-latency storage for compute-intensive applications
+- Boot volumes for EC2 instances
+
+---
+
+## 📁 Repository Structure
+
+\`\`\`
+aws-studies/
+│
+├── ec2/
+├── s3/
+├── ebs/
+└── README.md
+\`\`\`
+
+---
+
+## 🚀 Getting Started
+
+Each folder contains notes, configurations, and practical examples
+related to the respective AWS service. Feel free to explore and
+contribute.
+
+---
+
+*Studies in progress — more services will be added over time.*

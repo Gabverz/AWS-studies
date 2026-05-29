@@ -58,25 +58,4 @@ are available depending on throughput or IOPS requirements.
 
 ---
 
-## 📁 Repository Structure
-
-\`\`\`
-aws-studies/
-│
-├── ec2/
-├── s3/
-├── ebs/
-└── README.md
-\`\`\`
-
----
-
-## 🚀 Getting Started
-
-Each folder contains notes, configurations, and practical examples
-related to the respective AWS service. Feel free to explore and
-contribute.
-
----
-
 *Studies in progress — more services will be added over time.*

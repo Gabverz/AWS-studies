@@ -103,7 +103,6 @@ General principles:
 ```text
 aws-studies/
 ├── README.md
-├── roadmap.md
 └── notes/
     ├── 00-foundations.md
     ├── 01-iam-security.md
